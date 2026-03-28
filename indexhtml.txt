@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Мой сайт</title>
+    <title> Sitec </title>
 </head>
 <body>
-    <h1>Привет!</h1>
-    <p>Это мой первый сайт с текстом.</p>
+    <h1> Good day </h1>
+    <p>That`s my first website</p>
 </body>
 </html>
